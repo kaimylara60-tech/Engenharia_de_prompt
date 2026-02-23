@@ -5,6 +5,10 @@ Missão 01
 2. Compartilhe o resultado
 
    (Aprsenta a atividade)
+   
+   prompt
+   
+   escreva uma legenda de instagram sobre o curso de ciencia da computação, o tom deve ser profissional.
 
    🎓 **Minha jornada em Ciência da Computação**
 
