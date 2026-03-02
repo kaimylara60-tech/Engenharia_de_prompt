@@ -4,7 +4,7 @@ Missão 01
 1. Crie um prompt simples
 2. Compartilhe o resultado
 
-   (Aprsenta a atividade)
+   (Apresente a atividade)
    
    prompt
    
