@@ -2,7 +2,9 @@
 
 Participantes:
 Antonia Iara Pinheiro (RGM: 45027072)
+
 Vinicius Alves de Carvalho (RGM: 44968736)
+
 Gabriel Pelanda Chen Gomes (RGM: 045546479)
 
 ## 📌 Desafio Escolhido
