@@ -50,7 +50,7 @@ Sugestões da IA:
 
 ### Plataforma:
 
-* Claude
+* Bubble
 
 ### Justificativa da escolha:
 
@@ -64,8 +64,6 @@ c
 
 1. Desenvolvimento rápido do protótipo
 
-2. Facilidade de integração com IA e automações
-
 3. Interface visual simples e intuitiva
 
 4. Facilidade para testes e alterações rápidas
@@ -76,13 +74,15 @@ c
 
 1. Limitações de personalização avançada
 
-2. Dependência da plataforma
+2. Dependência da plataforma em não conseguir notificar no e-mail a realização da tarefa
 
 3. Algumas integrações exigem conhecimento técnico adicional
 
 4. Possíveis custos elevados em projetos maiores
 
 5. Limitações de desempenho em aplicações complexas
+
+6. Limitação na usabilidade da IA integrada por falta de tokens que são adquiridos com "R$"
 
 ---
 
